@@ -1,13 +1,10 @@
 import React, { useState } from "react"
 import { Outlet } from "react-router"
-import Signup from "./component/Signup"
-import Profile from "./component/Profile"
-import { color } from "framer-motion"
-import Home from "./component/Home"
+import Navbar from "./component/Navbar"
 function App() {
   return (
     <>
-    <Home/>
+    <Navbar/>
     <Outlet/>
     </>
   )
