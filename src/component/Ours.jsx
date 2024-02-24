@@ -35,7 +35,7 @@ export default function Ours() {
                             <ellipse cx="17" cy="16" rx="3" ry="3" transform="rotate(90 17 16)" stroke="#111827"
                                 strokeWidth="2" strokeLinecap="round"></ellipse>
                         </svg>
-                        <h3 className="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Interviwe</h3>
+                        <h3 className="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Interview</h3>
                         <p className="mt-6 mb-5 text-base text-gray-600">here you can give moke Interviwe you just raise a ruquest and after that you will get list of interviwer </p>
                             <button className="group relative inline-flex h-12 items-center justify-center overflow-hidden rounded-md border border-neutral-200 bg-transparent px-6 font-medium text-neutral-600 transition-all duration-100 [box-shadow:5px_5px_rgb(82_82_82)] active:translate-x-[3px] active:translate-y-[3px] active:[box-shadow:0px_0px_rgb(82_82_82)]">Click me</button>
                     </div>
