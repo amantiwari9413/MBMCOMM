@@ -8,7 +8,7 @@ export default function About() {
             <div className="flex flex-wrap ">
                 <div className="w-full px-4 mb-10 lg:w-1/2 lg:mb-0">
                     <div className="relative">
-                        <img src="../aman.jpeg" alt=""
+                        <img src="https://postimg.cc/Rq79ts0Q" alt=""
                             className="relative z-40 object-cover w-full h-96 lg:rounded-tr-[80px] lg:rounded-bl-[80px] rounded" />
                         <div
                             className="absolute z-10 hidden w-full h-full bg-blue-400 rounded-bl-[80px] rounded -bottom-6 right-6 lg:block">
